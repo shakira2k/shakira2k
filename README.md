@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @shakira2k
-- 👀 I’m interested in application development 
-- 🌱 I’m currently learning Flutter framework
-- 📫 How to reach me shakira2k
+# Hello World! I'm Shakira 🚀
 
+I'm an **Associate Software Engineer** with a passion for building mobile and web solutions. I hold an **HNDIT** qualification and bring hands-on experience from a **6-month internship** as a Flutter and Web Development Intern.
 
-<!---
-shakira2k/shakira2k is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+- 🎓 **Education**: Higher National Diploma in Information Technology (HNDIT)
+- 💼 **Experience**: 6 months as an intern, working on Flutter Android apps and web projects
+- 🛠️ **Tech Stack**: Flutter, Dart, firebase, HTML/CSS, JavaScript, GitHub (VCS)
+
+## What I Do
+- Develop sleek, user-friendly Android apps with Flutter
+- Build responsive web applications
+- Collaborate using GitHub for version control
